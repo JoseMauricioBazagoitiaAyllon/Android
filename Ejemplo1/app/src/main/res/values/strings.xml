@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1er Parcial</string>
+    <string name="label_title">Calculo de PI</string>
+    <string name="label_btn_calculo1">Calculo 1</string>
+    <string name="label_btn_calculo2">Calculo 2</string>
+    <string name="label_btn_calculo3">Calculo 3</string>
+    <string name="label_btn_calculo4">Calculo 4</string>
+    <string name="label_btn_calculo5">Calculo 5</string>
+    <string name="label_btn_comparar">Comparar Resultados</string>
+</resources>

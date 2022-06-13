@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora 2</string>
+    <string name="label_title">Calculadora</string>
+    <string name="label_btn_basic">Basica</string>
+    <string name="label_btn_complex">Complejo</string>
+    <string name="label_btn_graphics">Graficos</string>
+    <string name="label_btn_exit">Salir</string>
+    <string name="label_titulo_complex">Operaciones Basicas Complejos</string>
+    <string name="label_btn_suma">Suma</string>
+    <string name="label_btn_resta">Resta</string>
+    <string name="label_btn_producto">Multiplicacion</string>
+    <string name="label_btn_division">Division</string>
+    <string name="label_resultado_complejo">0</string>
+</resources>

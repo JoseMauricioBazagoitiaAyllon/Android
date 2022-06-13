@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752882947090",
+    "project_id": "mis-articulos-50445",
+    "storage_bucket": "mis-articulos-50445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752882947090:android:b7e7dec5636cb68cdb34cb",
+        "android_client_info": {
+          "package_name": "com.example.misarticulos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752882947090-cfg463rro254cvpa0eo9nstsbkgv5qk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.misarticulos",
+            "certificate_hash": "9d22f1b97e41414e3e12fc2859099f57e740cd8f"
+          }
+        },
+        {
+          "client_id": "752882947090-lbqgeq8ji75bfcggn56r2ri5mtdb260f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIalpzWv2JHCMa0Cj6PsgBrjaC78u3vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752882947090-lbqgeq8ji75bfcggn56r2ri5mtdb260f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

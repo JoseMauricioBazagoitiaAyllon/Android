@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="buton1">1</string>
+    <string name="buton2">2</string>
+    <string name="buton3">3</string>
+    <string name="buton4">4</string>
+    <string name="buton5">5</string>
+    <string name="buton6">6</string>
+    <string name="buton7">7</string>
+    <string name="buton8">8</string>
+    <string name="buton9">9</string>
+    <string name="butonS">+</string>
+    <string name="butonR">-</string>
+    <string name="butonM">*</string>
+    <string name="butonD">/</string>
+    <string name="butonE">=</string>
+    <string name="buton0">0</string>
+    <string name="butonV">-</string>
+    <string name="butonC">C</string>
+    <string name="butonPoint">.</string>
+    <string name="butonParentecir">( )</string>
+    <string name="butonET">Ingrese un Valor</string>
+    <string name="buton10">Escala 10</string>
+    <string name="buton100">Escala 100</string>
+    <string name="buton1000">Escala 1000</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

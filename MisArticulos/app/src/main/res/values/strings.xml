@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mis Articulos</string>
+    <string name="facebook_app_id" translatable="false">1155934748151765</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1155934748151765</string>
+</resources>
